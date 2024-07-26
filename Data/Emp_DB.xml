@@ -14,11 +14,4 @@
     <Emp_Department>Hardware</Emp_Department>
     <Emp_Salary>15000</Emp_Salary>
   </Employee>
-  <Employee>
-    <Emp_ID>103</Emp_ID>
-    <Emp_Name>Rakesh R</Emp_Name>
-    <Emp_Age>24</Emp_Age>
-    <Emp_Department>R&amp;D</Emp_Department>
-    <Emp_Salary>10000</Emp_Salary>
-  </Employee>
 </ArrayOfEmployee>

@@ -61,7 +61,7 @@
             this.lbl_Heading.Location = new System.Drawing.Point(391, 9);
             this.lbl_Heading.Name = "lbl_Heading";
             this.lbl_Heading.Size = new System.Drawing.Size(263, 51);
-            this.lbl_Heading.TabIndex = 0;
+            this.lbl_Heading.TabIndex = 18;
             this.lbl_Heading.Text = "EMPLOYEE DETAILS";
             this.lbl_Heading.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
@@ -85,7 +85,7 @@
             this.groupBox1.Location = new System.Drawing.Point(44, 87);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(459, 338);
-            this.groupBox1.TabIndex = 1;
+            this.groupBox1.TabIndex = 19;
             this.groupBox1.TabStop = false;
             // 
             // btn_Reset
@@ -94,7 +94,7 @@
             this.btn_Reset.Location = new System.Drawing.Point(353, 273);
             this.btn_Reset.Name = "btn_Reset";
             this.btn_Reset.Size = new System.Drawing.Size(76, 25);
-            this.btn_Reset.TabIndex = 7;
+            this.btn_Reset.TabIndex = 8;
             this.btn_Reset.Text = "RESET";
             this.btn_Reset.UseVisualStyleBackColor = true;
             this.btn_Reset.Click += new System.EventHandler(this.btn_Reset_Click);
@@ -111,7 +111,7 @@
             this.txt_Department.Location = new System.Drawing.Point(198, 161);
             this.txt_Department.Name = "txt_Department";
             this.txt_Department.Size = new System.Drawing.Size(173, 28);
-            this.txt_Department.TabIndex = 2;
+            this.txt_Department.TabIndex = 3;
             // 
             // txt_Age
             // 
@@ -119,7 +119,7 @@
             this.txt_Age.Location = new System.Drawing.Point(198, 116);
             this.txt_Age.Name = "txt_Age";
             this.txt_Age.Size = new System.Drawing.Size(88, 26);
-            this.txt_Age.TabIndex = 1;
+            this.txt_Age.TabIndex = 2;
             // 
             // btn_Delete
             // 
@@ -127,7 +127,7 @@
             this.btn_Delete.Location = new System.Drawing.Point(245, 273);
             this.btn_Delete.Name = "btn_Delete";
             this.btn_Delete.Size = new System.Drawing.Size(90, 25);
-            this.btn_Delete.TabIndex = 6;
+            this.btn_Delete.TabIndex = 7;
             this.btn_Delete.Text = "DELETE";
             this.btn_Delete.UseVisualStyleBackColor = true;
             this.btn_Delete.Click += new System.EventHandler(this.btn_Delete_Click);
@@ -138,7 +138,7 @@
             this.btn_Update.Location = new System.Drawing.Point(133, 273);
             this.btn_Update.Name = "btn_Update";
             this.btn_Update.Size = new System.Drawing.Size(92, 25);
-            this.btn_Update.TabIndex = 5;
+            this.btn_Update.TabIndex = 6;
             this.btn_Update.Text = "UPDATE";
             this.btn_Update.UseVisualStyleBackColor = true;
             this.btn_Update.Click += new System.EventHandler(this.btn_Update_Click);
@@ -149,7 +149,7 @@
             this.btn_Create.Location = new System.Drawing.Point(30, 273);
             this.btn_Create.Name = "btn_Create";
             this.btn_Create.Size = new System.Drawing.Size(88, 25);
-            this.btn_Create.TabIndex = 4;
+            this.btn_Create.TabIndex = 5;
             this.btn_Create.Text = "CREATE";
             this.btn_Create.UseVisualStyleBackColor = true;
             this.btn_Create.Click += new System.EventHandler(this.btn_Create_Click);
@@ -160,7 +160,7 @@
             this.btn_Read.Location = new System.Drawing.Point(301, 28);
             this.btn_Read.Name = "btn_Read";
             this.btn_Read.Size = new System.Drawing.Size(70, 25);
-            this.btn_Read.TabIndex = 8;
+            this.btn_Read.TabIndex = 9;
             this.btn_Read.Text = "READ";
             this.btn_Read.UseVisualStyleBackColor = true;
             this.btn_Read.Click += new System.EventHandler(this.btn_Read_Click);
@@ -171,7 +171,7 @@
             this.txt_Salary.Location = new System.Drawing.Point(198, 207);
             this.txt_Salary.Name = "txt_Salary";
             this.txt_Salary.Size = new System.Drawing.Size(231, 27);
-            this.txt_Salary.TabIndex = 3;
+            this.txt_Salary.TabIndex = 4;
             // 
             // txt_Name
             // 
@@ -179,7 +179,7 @@
             this.txt_Name.Location = new System.Drawing.Point(198, 72);
             this.txt_Name.Name = "txt_Name";
             this.txt_Name.Size = new System.Drawing.Size(173, 27);
-            this.txt_Name.TabIndex = 0;
+            this.txt_Name.TabIndex = 1;
             // 
             // txt_Id
             // 
@@ -187,7 +187,7 @@
             this.txt_Id.Location = new System.Drawing.Point(198, 27);
             this.txt_Id.Name = "txt_Id";
             this.txt_Id.Size = new System.Drawing.Size(88, 27);
-            this.txt_Id.TabIndex = 11;
+            this.txt_Id.TabIndex = 0;
             // 
             // lbl_Salary
             // 
@@ -195,7 +195,7 @@
             this.lbl_Salary.Location = new System.Drawing.Point(26, 207);
             this.lbl_Salary.Name = "lbl_Salary";
             this.lbl_Salary.Size = new System.Drawing.Size(150, 25);
-            this.lbl_Salary.TabIndex = 4;
+            this.lbl_Salary.TabIndex = 16;
             this.lbl_Salary.Text = "Emp_Salary";
             this.lbl_Salary.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -205,7 +205,7 @@
             this.lbl_Department.Location = new System.Drawing.Point(26, 162);
             this.lbl_Department.Name = "lbl_Department";
             this.lbl_Department.Size = new System.Drawing.Size(166, 25);
-            this.lbl_Department.TabIndex = 3;
+            this.lbl_Department.TabIndex = 15;
             this.lbl_Department.Text = "Emp_Department";
             this.lbl_Department.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -215,7 +215,7 @@
             this.lbl_Age.Location = new System.Drawing.Point(26, 115);
             this.lbl_Age.Name = "lbl_Age";
             this.lbl_Age.Size = new System.Drawing.Size(150, 25);
-            this.lbl_Age.TabIndex = 2;
+            this.lbl_Age.TabIndex = 14;
             this.lbl_Age.Text = "Emp_Age";
             this.lbl_Age.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -225,7 +225,7 @@
             this.lbl_Name.Location = new System.Drawing.Point(26, 72);
             this.lbl_Name.Name = "lbl_Name";
             this.lbl_Name.Size = new System.Drawing.Size(150, 25);
-            this.lbl_Name.TabIndex = 1;
+            this.lbl_Name.TabIndex = 13;
             this.lbl_Name.Text = "Emp_Name";
             this.lbl_Name.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -235,7 +235,7 @@
             this.lbl_Id.Location = new System.Drawing.Point(26, 34);
             this.lbl_Id.Name = "lbl_Id";
             this.lbl_Id.Size = new System.Drawing.Size(150, 25);
-            this.lbl_Id.TabIndex = 0;
+            this.lbl_Id.TabIndex = 12;
             this.lbl_Id.Text = "Emp_Id";
             this.lbl_Id.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
@@ -273,7 +273,7 @@
             this.data_Grid.RowTemplate.Height = 28;
             this.data_Grid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.data_Grid.Size = new System.Drawing.Size(464, 292);
-            this.data_Grid.TabIndex = 10;
+            this.data_Grid.TabIndex = 11;
             this.data_Grid.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.data_Grid_CellClick);
             // 
             // btn_ViewAll
@@ -282,7 +282,7 @@
             this.btn_ViewAll.Location = new System.Drawing.Point(705, 102);
             this.btn_ViewAll.Name = "btn_ViewAll";
             this.btn_ViewAll.Size = new System.Drawing.Size(108, 25);
-            this.btn_ViewAll.TabIndex = 9;
+            this.btn_ViewAll.TabIndex = 10;
             this.btn_ViewAll.Text = "VIEW ALL";
             this.btn_ViewAll.UseVisualStyleBackColor = true;
             this.btn_ViewAll.Click += new System.EventHandler(this.btn_ViewAll_Click);
