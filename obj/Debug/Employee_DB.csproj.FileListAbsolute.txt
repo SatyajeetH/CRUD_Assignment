@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\Employee_DB\bin\Debug\Employee_DB.exe.config
+D:\Visual Studio Projects\Employee_DB\bin\Debug\Employee_DB.exe
+D:\Visual Studio Projects\Employee_DB\bin\Debug\Employee_DB.pdb
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.Employee_Details.resources
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.Properties.Resources.resources
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.exe
+D:\Visual Studio Projects\Employee_DB\obj\Debug\Employee_DB.pdb

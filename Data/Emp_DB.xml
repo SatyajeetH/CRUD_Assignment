@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Emp_ID>101</Emp_ID>
+    <Emp_Name>Suresh</Emp_Name>
+    <Emp_Age>24</Emp_Age>
+    <Emp_Department>Software</Emp_Department>
+    <Emp_Salary>12000</Emp_Salary>
+  </Employee>
+  <Employee>
+    <Emp_ID>102</Emp_ID>
+    <Emp_Name>Ramesh</Emp_Name>
+    <Emp_Age>25</Emp_Age>
+    <Emp_Department>Hardware</Emp_Department>
+    <Emp_Salary>15000</Emp_Salary>
+  </Employee>
+  <Employee>
+    <Emp_ID>103</Emp_ID>
+    <Emp_Name>Rakesh R</Emp_Name>
+    <Emp_Age>24</Emp_Age>
+    <Emp_Department>R&amp;D</Emp_Department>
+    <Emp_Salary>10000</Emp_Salary>
+  </Employee>
+</ArrayOfEmployee>
